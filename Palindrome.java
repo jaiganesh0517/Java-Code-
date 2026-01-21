@@ -14,5 +14,6 @@ class Palindrome{
 	public static void main(String [] args){
 		String str = "madam";
 		System.out.println(isPalindrome(str));
+		System.out.println("Hello Wolrd");
 	}
 }
