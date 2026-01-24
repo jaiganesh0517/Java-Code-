@@ -1,17 +1,17 @@
 # Java Programming: Basics to Advanced
 
 ## 📖 About This Repository
-This repository contains Java programs written as part of my daily practice to strengthen my understanding of Java, starting from basic concepts and gradually moving toward advanced topics.
+This repository contains Java programs written as part of my daily practice to strengthen my understanding of Java, starting from basic concepts and gradually progressing toward advanced topics.
 
-Each program focuses on a specific concept with clean, beginner-friendly code.
+Each program focuses on a specific concept with clean, beginner-friendly, and well-structured code.
 
 ---
 
 ## 🎯 Why This Repository?
-- To build strong fundamentals in Java
-- To practice writing clean and readable code
-- To track my daily learning progress
-- To prepare for interviews, exams, and hackathons
+- To build strong fundamentals in Java  
+- To practice writing clean and readable code  
+- To track my daily learning progress  
+- To prepare for interviews, exams, and hackathons  
 
 ---
 
@@ -24,20 +24,29 @@ Each program focuses on a specific concept with clean, beginner-friendly code.
 - Recursion
 - Exception Handling
 - Collections Framework
-- File Handling (advanced)
+- File Handling (Advanced)
 
 ---
 
 ## 🛠 How to Run the Programs
 1. Clone the repository:
    ```bash
-   git clone https://git
-2.Navigate to the folder
-3.Compile the Program
-4.Run the Program
+   git clone https://github.com/jaiganesh0517/java-basics-to-advanced.git
+2. Navigate to the project folder:
 
+cd java-basics-to-advanced
+
+
+3. Compile the program:
+
+javac FileName.java
+
+
+4. Run the program:
+
+java FileName
 ---
-##Folder Structure
+##FolderStructure
 java-basics-to-advanced/
 │
 ├── basics/
@@ -50,12 +59,6 @@ java-basics-to-advanced/
 ├── collections/
 └── exceptions/
 ---
-##LearningProcess
 I am consistently adding new programs and improving existing ones as I advance in Java.
 
-This repository reflects my learning journey from fundamentals to advanced Java concepts.
-
-
-
-
-   hub.com/your-username/java-basics-to-advanced.git
+This repository reflects my learning journey from Java fundamentals to advanced concepts.
