@@ -10,6 +10,10 @@ class Loops{
     for(int i = 1; i <= 100; i++){
       System.out.print(i+" ");
     }
+  //for each loop  --> here we don't need to update the loop variable. 
+    for(data_type variable : array_name/collection_name){
+    statements 
+}
     // Similarly we can perform same operation using while loop and do-while loop
     int i = 1;
     while(i<=100){
